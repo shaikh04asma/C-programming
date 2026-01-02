@@ -1,3 +1,4 @@
+//Find largest and smallest number in a list of integer using array
 #include <stdio.h>
 #include <math.h>
 int main()
